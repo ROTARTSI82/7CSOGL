@@ -1,6 +1,7 @@
 // Written by Grant Yang for my 7th Grade CS project.
 
 #define GLFW_INCLUDE_NONE
+#define GLEW_STATIC
 
 #include "imgui/imgui.h"
 #include "imgui/examples/imgui_impl_glfw.h"
